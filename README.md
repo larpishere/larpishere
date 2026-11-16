@@ -11,7 +11,7 @@
 <img width="250" height="100" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/f87da6bb-9416-416b-8aa6-93deaff91b80" /> <br>
 
 ---
-bwa stupid wip
+bwa stupid wip 
     </td>
   </tr>
 </table>

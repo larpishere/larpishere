@@ -1,5 +1,11 @@
-<p align="center">
-  
-  ![GitHub Views](https://gitviews.com/repo/larpishere/larpishere.svg?style=plastic&label=null+larpers&color=lightgrey&base=67)
-  
-hiii !! its a wip and i think my new main ,, so ill code asap
+<img align="left" src="https://file.garden/au2LK_I0UDXdVJJY/kero" width="550" alt="Kero's Info" />
+<table>
+  <tr>
+   <td>
+  <img src="https://file.garden/au2LK_I0UDXdVJJY/haiiii" alt="Pink Bow" width="25" align="absmiddle" /> <br>
+     meow meow !!
+</td>
+  </tr>
+</table>
+
+<br clear="right"/>

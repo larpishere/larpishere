@@ -21,6 +21,6 @@
 <details>
 <summary><img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /></summary>
   
-<p align="right">blablablanla.</p>
+<p align="center">blablablanla.</p>
 
 </details>

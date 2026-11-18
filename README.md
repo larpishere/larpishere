@@ -19,7 +19,7 @@
 
 <img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/spokeey" width="270" alt="Kero's Info" />
 <img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /> <br>
-<div align="center"><br>
+<div align="right"><br>
 <details>
 <summary>click to expand byi !!</summary>
 

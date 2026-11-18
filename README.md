@@ -4,8 +4,8 @@
   <tr>
     <td align="center">
       <img src="https://file.garden/au2LK_I0UDXdVJJY/wat" alt="Top Banner GIF" width="150" /> <br>
-      <img src="https://file.garden/au2LK_I0UDXdVJJY/haiiii" alt="Pink Bow" width="25" align="absmiddle" /> ◡ kero !! 𓏻<br>
-      18 ⸝⸝ 31 . 10 ⑅<br>
+      <img src="https://file.garden/au2LK_I0UDXdVJJY/haiiii" alt="Pink Bow" width="25" align="absmiddle" /> ◡ $\color{#eddae3}{\text{кєrσ}}$ !! 𓏻<br>
+      $\color{#eddae3}{\text{18}}$ ⸝⸝ $\color{#d4bcd6}{\text{31}}$ . $\color{#bfbfdb}{\text{10}}$ ⑅<br>
 
 ---
       
@@ -26,9 +26,3 @@
   </a>
 </p>
 
-<table>
-<tr>
-<td align="center">
-$\color{#8697b3}{\text{test}}$<br>
-  </tr>
-</table>

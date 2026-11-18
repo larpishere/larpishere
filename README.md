@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=larpishere&color=lightgrey&flat&label=larpers&base=890"></img>
-<img align="left" src="https://file.garden/au2LK_I0UDXdVJJY/HEYO" width="350" alt="Kero's Info" />
+<img align="left" src="https://file.garden/au2LK_I0UDXdVJJY/HEYO" width="320" alt="Kero's Info" />
   <table>
   <tr>
     <td align="center">

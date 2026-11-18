@@ -17,10 +17,10 @@
   </tr>
 </table>
 
-<img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/spokeey" width="300" alt="Kero's Info" />
+<img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/spokeey" width="270" alt="Kero's Info" />
 <details>
-<summary><img align="center" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /></summary>
+<summary><img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /></summary>
   
-<p align="center">blablablanla.</p>
+<p align="right">blablablanla.</p>
 
 </details>

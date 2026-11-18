@@ -10,11 +10,18 @@
 ---
       
 <img width="250" height="100" alt="ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/f87da6bb-9416-416b-8aa6-93deaff91b80" /> <br>
-    </td>
+
+---
+
+  bwah<br>
   </tr>
 </table>
 <br clear="right"/>
 
 
 
-<img width="3707" height="1254" alt="image" src="https://github.com/user-attachments/assets/0df139d4-5fc3-45c6-8fd8-5a8bf744ce42" />
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
+  </a>
+</p>

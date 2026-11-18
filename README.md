@@ -13,16 +13,14 @@
 
 ---
 
-  $\color{#8697b3}{\text{hello}}$<br>
+
   </tr>
 </table>
-<br clear="right"/>
 
+<img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/spokeey" width="300" alt="Kero's Info" />
+<details>
+<summary><img align="center" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="320" alt="Kero's Info" /></summary>
+  
+<p align="center">blablablanla.</p>
 
-
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
-  </a>
-</p>
-
+</details>

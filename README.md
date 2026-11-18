@@ -19,11 +19,11 @@
 
 <img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/spokeey" width="270" alt="Kero's Info" />
 
-<div align="right"><br>
+<div align="center"><br>
 <details>
-<summary><img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /></summary>
+<summary><img align="center" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /></summary>
 
-<p align="right">IM CRAZYY.</p>
+<p align="center">IM CRAZYY.</p>
 
 </details>
 </div>

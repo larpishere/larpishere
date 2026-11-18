@@ -18,9 +18,13 @@
 </table>
 
 <img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/spokeey" width="270" alt="Kero's Info" />
+<img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /> <br>
+<div align="center"><br>
 <details>
-<summary><img align="right" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /></summary>
-  
-<p align="center">blablablanla.</p>
+<summary>click to expand byi !!</summary>
 
+IM TESTING RN OK scares you
 </details>
+</div>
+
+ 

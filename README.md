@@ -23,7 +23,8 @@
 <details>
 <summary><img align="center" src="https://file.garden/au2LK_I0UDXdVJJY/byi" width="250" alt="Kero's Info" /></summary>
 
-<p align="center">IM CRAZYY.</p>
+$\color{#eddae3}{\text{i}}$ $\color{#eddae3}{\text{can}}$ $\color{#eddae3}{\text{confuse}}$ $\color{#eddae3}{\text{people}}$<br>
+$\color{#eddae3}{\text{easily}}$
 
 </details>
 </div>

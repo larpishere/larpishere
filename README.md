@@ -13,7 +13,7 @@
 
 ---
 
-
+♥︎　　𓏼 　00%　　　𓈒　　　txt　txt　txt
   </tr>
 </table>
 

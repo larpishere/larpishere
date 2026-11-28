@@ -14,7 +14,8 @@
 ---
 
 $\color{#ada1a8}{\text{Ი ᰍ ݃ ݁ᣟ݂}}$ 𓏼 　 $\color{#d4bcd6}{\text{isfj}}$ 　𓈒　 $\color{#bfbfdb}{\text{sx // sp}}$  $\color{#eddae3}{\text{964}}$<br>
-　　　　　　  <img src="https://file.garden/au2LK_I0UDXdVJJY/wing%201" alt="wings" width="25" align="absmiddle"
+
+
   </tr>
 </table>
 

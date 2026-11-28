@@ -15,6 +15,9 @@
 
 $\color{#ada1a8}{\text{Ი ᰍ ݃ ݁ᣟ݂}}$ 𓏼 　 $\color{#d4bcd6}{\text{isfj}}$ 　𓈒　 $\color{#bfbfdb}{\text{sx // sp}}$  $\color{#eddae3}{\text{964}}$<br>
 
+<img width="26" height="21" alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/0459fa3d-4b25-4be9-a0b9-04fda26300e8" /> felv sei mel-chol <img width="26" height="21" alt="wing-wings" src="https://github.com/user-attachments/assets/2ce647ac-b775-4a8a-b3cc-dbec31470236" />
+
+
 
   </tr>
 </table>

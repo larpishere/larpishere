@@ -13,7 +13,7 @@
 
 ---
 
-$\color{#ada1a8}{\text{Ი ᰍ ݃ ݁ᣟ݂}}$　　𓏼 　$\color{#d4bcd6}{\text{isfj}}$　𓈒　$\color{#bfbfdb}{\text{sx // sp}}$ $\color{#eddae3}{\text{964}}$
+$\color{#ada1a8}{\text{Ი ᰍ ݃ ݁ᣟ݂}}$　　𓏼 　$\color{#d4bcd6}{\text{isfj}}$ 　𓈒　$\color{#bfbfdb}{\text{sx // sp}}$  $\color{#eddae3}{\text{964}}$
   </tr>
 </table>
 
